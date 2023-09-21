@@ -1,0 +1,21 @@
+// -----------------------------------------------
+// Subsection: Importance of OOP in Modern Programming
+// -----------------------------------------------
+
+/*
+- Scalability:
+  - OOP makes it easier to manage the growth of software.
+  - For example, if you have a class 'Vehicle,' you can later extend it to specific types like 'Car' or 'Truck.'
+*/
+
+/*
+- Maintainability:
+  - The organized structure makes the code easier to understand and manage.
+  - Updating one part of the system usually requires fewer changes in OOP.
+*/
+
+/*
+- Reusability:
+  - Code written once can be reused across multiple projects.
+  - Reduces time and effort in development.
+*/
