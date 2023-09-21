@@ -1,4 +1,4 @@
-package com.coherentsolutions.s5;
+package com.coherentsolutions.s5accessmodifiers;
 // ------------------------------------------------
 // Section: Access Modifiers: public and private
 // ------------------------------------------------

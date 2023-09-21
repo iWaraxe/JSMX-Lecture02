@@ -1,4 +1,4 @@
-package com.coherentsolutions.s1;
+package com.coherentsolutions.s1intro;
 
 public class S1Introduction {
 

@@ -1,4 +1,4 @@
-package com.coherentsolutions.s4;
+package com.coherentsolutions.s4encapsulation;
 
 public class Main {
     public static void main(String[] args) {

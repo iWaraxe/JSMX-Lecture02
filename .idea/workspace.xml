@@ -1,17 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8680faaa-b2a4-4ab0-b48c-bcb6ac308f38" name="Changes" comment="" />
+    <list default="true" id="8680faaa-b2a4-4ab0-b48c-bcb6ac308f38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s7assignment/Homework.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s1intro/S1Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s1intro/S1Introduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s2oop/S2WhatIsOOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s2oop/S2WhatIsOOP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s3classobject/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s3classobject/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s3classobject/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s3classobject/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s3classobject/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s3classobject/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s4encapsulation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s4encapsulation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s4encapsulation/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s4encapsulation/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s5accessmodifiers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s5accessmodifiers/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s5accessmodifiers/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s5accessmodifiers/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s6summary/S6SummaryQA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s6summary/S6SummaryQA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s7assignment/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s7assignment/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s7assignment/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s7assignment/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2VhuHbCzyDL6fE8o4bMMLqOxmey" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -22,7 +55,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -33,7 +71,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695300546450</updated>
+      <workItem from="1695300548340" duration="2314000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

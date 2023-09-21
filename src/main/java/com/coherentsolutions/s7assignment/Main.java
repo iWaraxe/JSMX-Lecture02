@@ -1,4 +1,4 @@
-package com.coherentsolutions.s7;
+package com.coherentsolutions.s7assignment;
 
 // ----------------------------------------------
 // Section: Assignment

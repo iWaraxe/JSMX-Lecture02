@@ -1,4 +1,11 @@
-package com.coherentsolutions.s3;
+package com.coherentsolutions.s3classobject;
+
+/*
+- Object:
+  - An object is an instance of a class.
+  - It is a concrete realization of the class blueprint.
+*/
+
 
 public class Main {
     public static void main(String[] args) {

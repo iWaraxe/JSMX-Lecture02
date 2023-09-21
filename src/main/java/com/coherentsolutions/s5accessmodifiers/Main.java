@@ -1,4 +1,4 @@
-package com.coherentsolutions.s5;
+package com.coherentsolutions.s5accessmodifiers;
 
 public class Main {
     public static void main(String[] args) {

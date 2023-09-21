@@ -1,4 +1,4 @@
-package com.coherentsolutions.s3;
+package com.coherentsolutions.s3classobject;
 // ------------------------------------------------
 // Section: Class and Object
 // ------------------------------------------------

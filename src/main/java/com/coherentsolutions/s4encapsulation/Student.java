@@ -1,4 +1,4 @@
-package com.coherentsolutions.s4;
+package com.coherentsolutions.s4encapsulation;
 // ----------------------------------------------
 // Section: Encapsulation
 // ----------------------------------------------

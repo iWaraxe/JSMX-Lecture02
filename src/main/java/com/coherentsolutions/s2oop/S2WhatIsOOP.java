@@ -1,4 +1,4 @@
-package com.coherentsolutions.s2;
+package com.coherentsolutions.s2oop;
 
 // -----------------------------------------------
 // Section: What is Object-Oriented Programming (OOP)?

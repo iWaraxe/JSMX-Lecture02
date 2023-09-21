@@ -1,4 +1,4 @@
-package com.coherentsolutions.s6;
+package com.coherentsolutions.s6summary;
 
 // ----------------------------------------------
 // Section: Q&A and Summary
