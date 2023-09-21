@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8680faaa-b2a4-4ab0-b48c-bcb6ac308f38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s7assignment/Homework.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8680faaa-b2a4-4ab0-b48c-bcb6ac308f38" name="Changes" comment="Homework.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s1intro/S1Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s1intro/S1Introduction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s2oop/S2WhatIsOOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s2oop/S2WhatIsOOP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s3classobject/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s3classobject/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s3classobject/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s3classobject/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s3classobject/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s3classobject/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s4encapsulation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s4encapsulation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s4encapsulation/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s4encapsulation/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s5accessmodifiers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s5accessmodifiers/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s5accessmodifiers/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s5accessmodifiers/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s6summary/S6SummaryQA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s6summary/S6SummaryQA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s7assignment/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s7assignment/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s7assignment/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s7assignment/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s7assignment/Homework.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/s7assignment/Homework.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +56,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695300546450</updated>
-      <workItem from="1695300548340" duration="2314000" />
+      <workItem from="1695300548340" duration="3388000" />
     </task>
+    <task id="LOCAL-00001" summary="Homework.md">
+      <created>1695302885366</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695302885366</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework.md" />
   </component>
 </project>
