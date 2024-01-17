@@ -7,6 +7,7 @@ public class Main {
         // Create an object of the Student class
         Student student1 = new Student();
 
+
         // Use 'set' methods to set attributes
         student1.setName("Alice");
         student1.setAge(20);

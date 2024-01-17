@@ -7,7 +7,7 @@ public class Main {
         student.setName("Alice");
         student.setAge(20);
         student.publicMethod();
-        // student.privateMethod();  // This will cause a compilation error
+        //student.privateMethod();  // This will cause a compilation error
 
     }
 }

@@ -1,3 +1,6 @@
+
+
+
 # Homework Assignment Details:
 - Create a Java class named 'Movie'.
 - The class should have the following attributes: 'title', 'director', and 'yearOfProduction'.

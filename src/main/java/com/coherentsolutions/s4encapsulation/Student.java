@@ -17,8 +17,14 @@ package com.coherentsolutions.s4encapsulation;
 
 // Example of a class with encapsulation
 
+import com.coherentsolutions.s3classobject.Vehicle;
+
+import java.util.List;
+
 public class Student {
     private String name;
+
+    private List<Vehicle> vehicleList;
     private int age;
 
     public String getName() {
@@ -34,8 +40,16 @@ public class Student {
     }
 
     public void setAge(int age) {
-        if (age > 0) {
+        if (age > 0 && age < 125) {
             this.age = age;
         }
+    }
+
+    public List<Vehicle> getVehicleList() {
+        return vehicleList;
+    }
+
+    public void setVehicleList(List<Vehicle> vehicleList) {
+        this.vehicleList = vehicleList;
     }
 }
